@@ -1,16 +1,16 @@
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.deps.json
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.runtimeconfig.json
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.runtimeconfig.dev.json
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.pdb
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.API.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.API.pdb
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.csprojResolveAssemblyReference.cache
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.csproj.CoreCompileInputs.cache
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.AssemblyInfoInputs.cache
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.AssemblyInfo.cs
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.dll
-C:\Users\SPADACHI\Documents\Visual Studio 2017\Projects\STP.Converter2\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.pdb
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.deps.json
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.runtimeconfig.json
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.runtimeconfig.dev.json
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.Tests.pdb
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.API.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\bin\Debug\netcoreapp2.0\STP.Converter2.API.pdb
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.csprojResolveAssemblyReference.cache
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.csproj.CoreCompileInputs.cache
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.AssemblyInfoInputs.cache
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.AssemblyInfo.cs
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.dll
+C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.Tests\obj\Debug\netcoreapp2.0\STP.Converter2.Tests.pdb

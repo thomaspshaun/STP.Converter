@@ -1,14 +1,3 @@
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.deps.json
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.runtimeconfig.json
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.runtimeconfig.dev.json
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.dll
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.pdb
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.csprojResolveAssemblyReference.cache
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.csproj.CoreCompileInputs.cache
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.AssemblyInfoInputs.cache
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.AssemblyInfo.cs
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.dll
-c:\users\spadachi\documents\visual studio 2017\Projects\STP.Converter2\STP.Converter2.API\obj\Debug\netcoreapp2.0\STP.Converter2.API.pdb
 C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.deps.json
 C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.runtimeconfig.json
 C:\Shaun\GITHUB\STP.Converter\WEBAPI\STP.Converter2.API\bin\Debug\netcoreapp2.0\STP.Converter2.API.runtimeconfig.dev.json
